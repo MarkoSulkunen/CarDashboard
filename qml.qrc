@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Button.qml</file>
+        <file>Tachometer.qml</file>
+        <file>tacho.png</file>
+        <file>speedo.png</file>
+        <file>Speedometer.qml</file>
+        <file>needlered.png</file>
+        <file>Button2.qml</file>
+        <file>Button3.qml</file>
+        <file>OilLight.qml</file>
+        <file>FuelMeter.qml</file>
+        <file>oil.jpg</file>
+        <file>battery.jpg</file>
+        <file>BatteryLight.qml</file>
+        <file>engine.jpg</file>
+        <file>EngineLight.qml</file>
+        <file>temp.jpg</file>
+        <file>TempLight.qml</file>
+        <file>button.png</file>
+        <file>fuelbackground.png</file>
+        <file>start.jpg</file>
+    </qresource>
+</RCC>
